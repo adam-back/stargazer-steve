@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/adamjaffeback/stargazer-steve/issues"
   },
-  "homepage": "https://github.com/adamjaffeback/stargazer-steve#readme"
+  "homepage": "https://github.com/adamjaffeback/stargazer-steve#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
