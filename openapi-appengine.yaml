@@ -1,0 +1,6 @@
+swagger: "2.0"
+info:
+  description: "Google Cloud Endpoints API to receive webhooks from ISS Google Home Action."
+  title: "Stargazer Steve API"
+  version: "0.0.1"
+host: "internationalspacestatio-a68c5.appspot.com"
