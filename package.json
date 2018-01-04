@@ -1,0 +1,25 @@
+{
+  "name": "stargazer-steve",
+  "version": "0.0.1",
+  "description": "API for receiving Google Actions webhooks to get ISS flyover times.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamjaffeback/stargazer-steve.git"
+  },
+  "keywords": [
+    "ISS",
+    "Actions",
+    "Google",
+    "Home"
+  ],
+  "author": "Adam Jaffe Back",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamjaffeback/stargazer-steve/issues"
+  },
+  "homepage": "https://github.com/adamjaffeback/stargazer-steve#readme"
+}
